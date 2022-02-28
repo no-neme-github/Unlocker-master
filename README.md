@@ -1,4 +1,2 @@
 # Unlocker-master
-Ficheiros para instalação de Mac na vmwere
-Versão 3.0.4
-Este contém ferramentas que foram testadas para funcionar.
+MacnavmwereVersion3.0.4Installation FileIncludes tools that have been tested and found to work.
